@@ -1,0 +1,5 @@
+Modules used:
+streamlit
+sqlite3
+pandas
+PIL.Image
