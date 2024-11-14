@@ -6,10 +6,13 @@ To run the program, write the following command into the terminal:
 streamlit run Welcome.py
 ```
 ## Docker (Did this for fun to learn Docker):
-Clone the repo to your local directory and set it as your present working directory.
+Execute the below command to pull the image:
+```
+docker pull saxoman3021/car-sales-management-system
+```
 Run the below command in terminal:
 ```
-docker compose up --build
+docker run saxoman3021/car-sales-management-system
 ```
 
-Once complete, head on over [http://localhost:8501/](to http://localhost:8501/)
+Once complete, head on over http://localhost:8501/
