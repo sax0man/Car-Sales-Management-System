@@ -12,7 +12,7 @@ docker pull saxoman3021/car-sales-management-system
 ```
 Run the below command in terminal:
 ```
-docker run saxoman3021/car-sales-management-system
+docker run -p 8501:8501 saxoman3021/car-sales-management-system
 ```
 
 Once complete, head on over http://localhost:8501/
