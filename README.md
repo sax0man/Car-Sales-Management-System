@@ -8,11 +8,11 @@ streamlit run Welcome.py
 ## Docker (Did this for fun to learn Docker):
 Execute the below command to pull the image:
 ```
-docker pull saxoman3021/car-sales-management-system
+docker pull saxoman3021/car-sales-management-system:latest
 ```
 Run the below command in terminal:
 ```
-docker run -p 8501:8501 saxoman3021/car-sales-management-system
+docker run -p 8501:8501 saxoman3021/car-sales-management-system:latest
 ```
 
 Once complete, head on over http://localhost:8501/
