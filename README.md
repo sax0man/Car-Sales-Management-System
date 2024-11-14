@@ -3,9 +3,7 @@ The car sales management system is an app framework built using streamlit and sq
 To run the program, write the following command into the terminal:
 
 ```
-function test() {
-  console.log("This code will have a copy button to the right of it");
-}
+streamlit run Welcome.py
 ```
 Docker (Did this for fun to learn Docker):
 
